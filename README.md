@@ -6,5 +6,5 @@ La página web esta disponible en
 
 ## Screenshots
 
-Pagina principal ('./screenshots/imagen1.png)
-Pagina con la consulta realizada ('./screenshots/imagen2.png)
+![Página Principal](/screenshot/imagen1.png)
+![Pagina con la consulta realizada](/screenshots/imagen2.png)
